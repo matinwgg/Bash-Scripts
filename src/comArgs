@@ -1,0 +1,4 @@
+echo "This is the command $0"
+echo "This is the first argument $1"
+echo "This is the second argument $2"
+echo "There are a total of $# arguments"
